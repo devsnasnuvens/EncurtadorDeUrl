@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "SHORTENER_URL": "",
+        "AzureWebJobsStorage": "",
+        "AzureWebJobsDashboard": ""
+    }
+}
